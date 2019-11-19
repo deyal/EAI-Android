@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606313325555",
+    "firebase_url": "https://defnyyutama-a2a4e.firebaseio.com",
+    "project_id": "defnyyutama-a2a4e",
+    "storage_bucket": "defnyyutama-a2a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606313325555:android:89952d28b5ac44abdba886",
+        "android_client_info": {
+          "package_name": "com.example.eai_uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606313325555-m8er2sv8vielf24df9tn4js2frphnds9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eai_uts",
+            "certificate_hash": "53b85dde922e74912034f2b57446e8971a6d6dbc"
+          }
+        },
+        {
+          "client_id": "606313325555-rq21sdb3oilhd1c63lpeu7bvhr5slkla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQbefR19XmhlFoXCg-y-y4yLyzAZvHsV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606313325555-rq21sdb3oilhd1c63lpeu7bvhr5slkla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

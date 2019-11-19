@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EAI-UTS</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">525616361346756</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb525616361346756</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">aNcQFKP59hewVSvTkd3BV0jn5</string>
+    <string name="twitter_consumer_secret" translatable="false">zF38E36K1nY2SaCGPLGI4AaXKBmPnfqr8ArOeuNCucncm8XC76</string>
+
+    <string name="sign_in">Login</string>
+    <string name="sign_out">Logout</string>
+</resources>
